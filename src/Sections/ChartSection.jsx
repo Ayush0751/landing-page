@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { InnerLayout } from '../styles/Layout'
-import ChartStats from '../components/ChartStats'
+// import ChartStats from '../components/ChartStats'
 import chart from '../assets/img/multipleCups.png'
 import chart2 from '../assets/img/orangeCup.png'
 import AnimatedButton from '../components/AnimatedButton'

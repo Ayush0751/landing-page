@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import SecondaryButton from './SecondaryButton'
-import bg1 from '../assets/img/bg1.png'
+// import bg1 from '../assets/img/bg1.png'
  
 const HeaderContent = () => {
    return (

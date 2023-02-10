@@ -1,5 +1,5 @@
 import React from 'react'
-import styled, { keyframes } from 'styled-components'
+import styled from 'styled-components'
 import { InnerLayout } from '../styles/Layout'
 // import card from '../assets/img/creditcard.svg'
 import card from '../assets/img/kit.png'
